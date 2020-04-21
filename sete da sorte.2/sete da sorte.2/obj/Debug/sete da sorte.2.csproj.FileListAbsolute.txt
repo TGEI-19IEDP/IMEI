@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\sete da sorte.2\sete da sorte.2\obj\Debug\sete da sorte.2.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\sete da sorte.2\sete da sorte.2\obj\Debug\sete_da_sorte._2.Form1.resources
+C:\Users\Ivan\source\repos\sete da sorte.2\sete da sorte.2\obj\Debug\sete_da_sorte._2.Properties.Resources.resources
+C:\Users\Ivan\source\repos\sete da sorte.2\sete da sorte.2\obj\Debug\sete da sorte.2.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\sete da sorte.2\sete da sorte.2\bin\Debug\sete da sorte.2.exe.config
+C:\Users\Ivan\source\repos\sete da sorte.2\sete da sorte.2\bin\Debug\sete da sorte.2.exe
+C:\Users\Ivan\source\repos\sete da sorte.2\sete da sorte.2\bin\Debug\sete da sorte.2.pdb
+C:\Users\Ivan\source\repos\sete da sorte.2\sete da sorte.2\obj\Debug\sete da sorte.2.exe
+C:\Users\Ivan\source\repos\sete da sorte.2\sete da sorte.2\obj\Debug\sete da sorte.2.pdb

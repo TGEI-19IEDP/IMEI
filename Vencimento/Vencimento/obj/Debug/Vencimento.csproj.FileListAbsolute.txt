@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\Vencimento\Vencimento\bin\Debug\Vencimento.exe.config
+C:\Users\Ivan\source\repos\Vencimento\Vencimento\bin\Debug\Vencimento.exe
+C:\Users\Ivan\source\repos\Vencimento\Vencimento\bin\Debug\Vencimento.pdb
+C:\Users\Ivan\source\repos\Vencimento\Vencimento\obj\Debug\Vencimento.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Vencimento\Vencimento\obj\Debug\Vencimento.Form1.resources
+C:\Users\Ivan\source\repos\Vencimento\Vencimento\obj\Debug\Vencimento.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Vencimento\Vencimento\obj\Debug\Vencimento.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Vencimento\Vencimento\obj\Debug\Vencimento.exe
+C:\Users\Ivan\source\repos\Vencimento\Vencimento\obj\Debug\Vencimento.pdb

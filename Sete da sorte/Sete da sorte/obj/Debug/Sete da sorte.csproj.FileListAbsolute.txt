@@ -1,0 +1,4 @@
+C:\Users\Ivan\Documents\Sete da sorte\Sete da sorte\obj\Debug\Sete_da_sorte.Form1.resources
+C:\Users\Ivan\Documents\Sete da sorte\Sete da sorte\obj\Debug\Sete_da_sorte.Properties.Resources.resources
+C:\Users\Ivan\Documents\Sete da sorte\Sete da sorte\obj\Debug\Sete da sorte.csproj.GenerateResource.cache
+C:\Users\Ivan\Documents\Sete da sorte\Sete da sorte\obj\Debug\Sete da sorte.csprojAssemblyReference.cache
