@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Operações Aritméticas\Operações Aritméticas\bin\Debug\Operações Aritméticas.exe.config
+C:\Users\Ivan\Documents\Operações Aritméticas\Operações Aritméticas\bin\Debug\Operações Aritméticas.exe
+C:\Users\Ivan\Documents\Operações Aritméticas\Operações Aritméticas\bin\Debug\Operações Aritméticas.pdb
+C:\Users\Ivan\Documents\Operações Aritméticas\Operações Aritméticas\obj\Debug\Operações_Aritméticas.Form1.resources
+C:\Users\Ivan\Documents\Operações Aritméticas\Operações Aritméticas\obj\Debug\Operações_Aritméticas.Properties.Resources.resources
+C:\Users\Ivan\Documents\Operações Aritméticas\Operações Aritméticas\obj\Debug\Operações Aritméticas.csproj.GenerateResource.cache
+C:\Users\Ivan\Documents\Operações Aritméticas\Operações Aritméticas\obj\Debug\Operações Aritméticas.exe
+C:\Users\Ivan\Documents\Operações Aritméticas\Operações Aritméticas\obj\Debug\Operações Aritméticas.pdb
+C:\Users\Ivan\Documents\Operações Aritméticas\Operações Aritméticas\obj\Debug\Operações Aritméticas.csprojAssemblyReference.cache

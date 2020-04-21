@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Area de poligonos regulares\Area de poligonos regulares\obj\Debug\Area de poligonos regulares.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\Area de poligonos regulares\Area de poligonos regulares\obj\Debug\Area_de_poligonos_regulares.Form1.resources
+C:\Users\Ivan\Documents\Area de poligonos regulares\Area de poligonos regulares\obj\Debug\Area_de_poligonos_regulares.Properties.Resources.resources
+C:\Users\Ivan\Documents\Area de poligonos regulares\Area de poligonos regulares\obj\Debug\Area de poligonos regulares.csproj.GenerateResource.cache
+C:\Users\Ivan\Documents\Area de poligonos regulares\Area de poligonos regulares\bin\Debug\Area de poligonos regulares.exe.config
+C:\Users\Ivan\Documents\Area de poligonos regulares\Area de poligonos regulares\bin\Debug\Area de poligonos regulares.exe
+C:\Users\Ivan\Documents\Area de poligonos regulares\Area de poligonos regulares\bin\Debug\Area de poligonos regulares.pdb
+C:\Users\Ivan\Documents\Area de poligonos regulares\Area de poligonos regulares\obj\Debug\Area de poligonos regulares.exe
+C:\Users\Ivan\Documents\Area de poligonos regulares\Area de poligonos regulares\obj\Debug\Area de poligonos regulares.pdb

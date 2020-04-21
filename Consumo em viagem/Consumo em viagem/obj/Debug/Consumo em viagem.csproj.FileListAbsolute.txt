@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Consumo em viagem\Consumo em viagem\bin\Debug\Consumo em viagem.exe.config
+C:\Users\Ivan\Documents\Consumo em viagem\Consumo em viagem\bin\Debug\Consumo em viagem.exe
+C:\Users\Ivan\Documents\Consumo em viagem\Consumo em viagem\bin\Debug\Consumo em viagem.pdb
+C:\Users\Ivan\Documents\Consumo em viagem\Consumo em viagem\obj\Debug\Consumo em viagem.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\Consumo em viagem\Consumo em viagem\obj\Debug\Consumo_em_viagem.Form1.resources
+C:\Users\Ivan\Documents\Consumo em viagem\Consumo em viagem\obj\Debug\Consumo_em_viagem.Properties.Resources.resources
+C:\Users\Ivan\Documents\Consumo em viagem\Consumo em viagem\obj\Debug\Consumo em viagem.csproj.GenerateResource.cache
+C:\Users\Ivan\Documents\Consumo em viagem\Consumo em viagem\obj\Debug\Consumo em viagem.exe
+C:\Users\Ivan\Documents\Consumo em viagem\Consumo em viagem\obj\Debug\Consumo em viagem.pdb

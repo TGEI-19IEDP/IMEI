@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\imposto automovel\imposto automovel\bin\Debug\imposto automovel.exe.config
+C:\Users\Ivan\Documents\imposto automovel\imposto automovel\bin\Debug\imposto automovel.exe
+C:\Users\Ivan\Documents\imposto automovel\imposto automovel\bin\Debug\imposto automovel.pdb
+C:\Users\Ivan\Documents\imposto automovel\imposto automovel\obj\Debug\imposto automovel.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\imposto automovel\imposto automovel\obj\Debug\imposto_automovel.Form1.resources
+C:\Users\Ivan\Documents\imposto automovel\imposto automovel\obj\Debug\imposto_automovel.Properties.Resources.resources
+C:\Users\Ivan\Documents\imposto automovel\imposto automovel\obj\Debug\imposto automovel.csproj.GenerateResource.cache
+C:\Users\Ivan\Documents\imposto automovel\imposto automovel\obj\Debug\imposto automovel.exe
+C:\Users\Ivan\Documents\imposto automovel\imposto automovel\obj\Debug\imposto automovel.pdb
