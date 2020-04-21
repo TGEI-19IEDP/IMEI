@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\Gasolineira\Gasolineira\bin\Debug\Gasolineira.exe.config
+C:\Users\Ivan\source\repos\Gasolineira\Gasolineira\bin\Debug\Gasolineira.exe
+C:\Users\Ivan\source\repos\Gasolineira\Gasolineira\bin\Debug\Gasolineira.pdb
+C:\Users\Ivan\source\repos\Gasolineira\Gasolineira\obj\Debug\Gasolineira.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Gasolineira\Gasolineira\obj\Debug\Gasolineira.Form1.resources
+C:\Users\Ivan\source\repos\Gasolineira\Gasolineira\obj\Debug\Gasolineira.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Gasolineira\Gasolineira\obj\Debug\Gasolineira.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Gasolineira\Gasolineira\obj\Debug\Gasolineira.exe
+C:\Users\Ivan\source\repos\Gasolineira\Gasolineira\obj\Debug\Gasolineira.pdb

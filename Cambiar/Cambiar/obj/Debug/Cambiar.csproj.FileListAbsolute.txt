@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\Cambiar\Cambiar\bin\Debug\Cambiar.exe.config
+C:\Users\Ivan\source\repos\Cambiar\Cambiar\bin\Debug\Cambiar.exe
+C:\Users\Ivan\source\repos\Cambiar\Cambiar\bin\Debug\Cambiar.pdb
+C:\Users\Ivan\source\repos\Cambiar\Cambiar\obj\Debug\Cambiar.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Cambiar\Cambiar\obj\Debug\Cambiar.Form1.resources
+C:\Users\Ivan\source\repos\Cambiar\Cambiar\obj\Debug\Cambiar.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Cambiar\Cambiar\obj\Debug\Cambiar.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Cambiar\Cambiar\obj\Debug\Cambiar.exe
+C:\Users\Ivan\source\repos\Cambiar\Cambiar\obj\Debug\Cambiar.pdb
